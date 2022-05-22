@@ -49,9 +49,9 @@
                </ul>
                <!-- Social -->
                <p class="social-icon">
-                  <a href="#"><i class="fab fa-facebook-square"></i></a>
+                  <a href="https://www.facebook.com/TeddferSimpson/"><i class="fab fa-facebook-square"></i></a>
                   <a href="#"><i class="fab fa-twitter-square"></i></a>
-                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="https://www.instagram.com/teddfersimpson/"><i class="fab fa-instagram"></i></a>
                   <a href="#"><i class="fab fa-dribbble"></i></a>
                </p>
             </div>
@@ -87,9 +87,9 @@
                         <h2><a class="footer-logo" href="<?= URL ?>">Mi Portafolio</a></h2>
                         <!-- Social -->
                         <p class="social-icon">
-                           <a href="#"><i class="fab fa-facebook-square"></i></a>
+                           <a href="https://www.facebook.com/TeddferSimpson/"><i class="fab fa-facebook-square"></i></a>
                            <a href="#"><i class="fab fa-twitter-square"></i></a>
-                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="https://www.instagram.com/teddfersimpson/"><i class="fab fa-instagram"></i></a>
                            <a href="#"><i class="fab fa-dribbble"></i></a>
                         </p>
                         <!-- Copyright -->
