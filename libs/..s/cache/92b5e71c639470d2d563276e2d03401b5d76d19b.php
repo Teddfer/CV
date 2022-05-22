@@ -7,6 +7,8 @@
 <?php $__env->stopSection(); ?>
 
 <?php $__env->startSection('content'); ?>
+<br>
+<br>
 <section class="content">
     <section id="resume" class="bg-dark bg-dots">
             <div class="container">

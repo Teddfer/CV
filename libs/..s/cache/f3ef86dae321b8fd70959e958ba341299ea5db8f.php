@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="h-100">
+<html lang="es" class="h-100">
   <head>
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -49,9 +49,9 @@
                </ul>
                <!-- Social -->
                <p class="social-icon">
-                  <a href="#"><i class="fab fa-facebook-square"></i></a>
+                  <a href="https://www.facebook.com/TeddferSimpson/"><i class="fab fa-facebook-square"></i></a>
                   <a href="#"><i class="fab fa-twitter-square"></i></a>
-                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="https://www.instagram.com/teddfersimpson/"><i class="fab fa-instagram"></i></a>
                   <a href="#"><i class="fab fa-dribbble"></i></a>
                </p>
             </div>
@@ -59,13 +59,13 @@
       </nav>
 
 <div id="page">
-   <header class="header";">
-            <div class="container">
+   <header class="header" style="background: rgb(0, 0, 0);">
+            <div class="container"">
                <div class="navbar-brand">
                   <div class="row">
                      <div class="col-xs-6">
                         <!-- Logo -->
-                        <h1 class="text-left"><a class="logo" href="<?= URL ?>">Mi Portafolio</a></h1>
+                        <h1 class="text-left"><a class="logo" href="<?= URL ?>">Portafolio</a></h1>
                      </div>
                   </div>
                   <!-- Nav toggle -->
@@ -84,12 +84,12 @@
                   <div class="row copy-right">
                      <div class="col-md-6 col-md-offset-3 text-center">
                         <!-- Footer logo -->
-                        <h2><a class="footer-logo" href="<?= URL ?>">Mi Portafolio</a></h2>
+                        <h2><a class="footer-logo" href="<?= URL ?>">Portafolio</a></h2>
                         <!-- Social -->
                         <p class="social-icon">
-                           <a href="#"><i class="fab fa-facebook-square"></i></a>
+                           <a href="https://www.facebook.com/TeddferSimpson/"><i class="fab fa-facebook-square"></i></a>
                            <a href="#"><i class="fab fa-twitter-square"></i></a>
-                           <a href="#"><i class="fab fa-instagram"></i></a>
+                           <a href="https://www.instagram.com/teddfersimpson/"><i class="fab fa-instagram"></i></a>
                            <a href="#"><i class="fab fa-dribbble"></i></a>
                         </p>
                         <!-- Copyright -->

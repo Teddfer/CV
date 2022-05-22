@@ -18,12 +18,15 @@
                         <div class="col-md-8 js-fullheight slider-text">
                            <div class="slider-text-inner">
                               <div class="desc">
-                                 <h2>Soy Teddy Loc</h2>
+                                 <h2>Hola! <br> soy Teddy Loc</h2>
                                  <h3>Yo soy
                                     <span id="typed-slide-1"></span>
                                     <span id="typed-strings-slide-1">
+
                                     <span>Diseñador Web</span>
                                     <span>Programador</span>
+                                    <span>Administrador</span>
+                                    <span>Ilustrador</span>
                                     </span>
                                  </h3>
                               </div>

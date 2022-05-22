@@ -10,8 +10,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <section class="content">
     <section id="about">
             <div class="container">
@@ -76,9 +74,7 @@
             </div>
          </section>
 </section>
-<br>
-<br>
-<br>
+
 <?php $__env->stopSection(); ?>
 
 <?php $__env->startSection('mis_Scripts'); ?>

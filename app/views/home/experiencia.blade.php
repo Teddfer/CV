@@ -7,6 +7,8 @@
 @endsection
 
 @section('content')
+<br>
+<br>
 <section class="content">
     <section id="resume" class="bg-dark bg-dots">
             <div class="container">
